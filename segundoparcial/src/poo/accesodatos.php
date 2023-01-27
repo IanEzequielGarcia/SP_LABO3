@@ -17,7 +17,7 @@ class AccesoDatos
             die();
         }
     }
- 
+ asdasds
     public function RetornarConsulta($sql)
     { 
         return $this -> objetoPDO -> prepare($sql); 
